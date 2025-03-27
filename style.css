@@ -41,7 +41,7 @@ a {
   text-decoration: none;
 }
 body::before {
-  content: "U+2665  Dinar Resti Lestari";
+  content: "&#x2764;  Dinar Resti Lestari";
   color: white;
   opacity: 0.5;
   font-size: 10px;
