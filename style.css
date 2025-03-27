@@ -41,7 +41,7 @@ a {
   text-decoration: none;
 }
 body::before {
-  content: "&#x2764;  Dinar Resti Lestari (23-03-2025)";
+  content: "\00A9  Dinar Resti Lestari (23-03-2025)";
   color: white;
   opacity: 0.5;
   font-size: 10px;
